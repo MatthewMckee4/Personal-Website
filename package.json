@@ -1,5 +1,5 @@
 {
-    "homepage": "https://MatthewMckee4.github.io/Personal-Website",
+  "homepage": "https://MatthewMckee4.github.io/Personal-Website",
   "name": "personal-website",
   "version": "0.1.0",
   "private": true,
@@ -43,10 +43,7 @@
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
-<<<<<<< HEAD
     "gh-pages": "^6.1.1",
-=======
->>>>>>> 85c3276 (init)
     "tailwindcss": "^3.4.0"
   }
 }
