@@ -1,0 +1,19 @@
+.experienceGrid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+}
+
+.experienceRow {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  align-items: start;
+  gap: 10px;
+  padding: 15px;
+  border: 1px solid var(--accent);
+  border-radius: 5px;
+}
+
+.experienceRowDates {
+  text-align: right;
+}
