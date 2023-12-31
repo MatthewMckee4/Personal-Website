@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Personal-Website/static/css/main.340a5a2c.css",
-    "main.js": "/Personal-Website/static/js/main.d81a6aa7.js",
-    "index.html": "/Personal-Website/index.html",
-    "main.340a5a2c.css.map": "/Personal-Website/static/css/main.340a5a2c.css.map",
-    "main.d81a6aa7.js.map": "/Personal-Website/static/js/main.d81a6aa7.js.map"
+    "main.css": "/matthewmckee.co.uk/static/css/main.340a5a2c.css",
+    "main.js": "/matthewmckee.co.uk/static/js/main.d81a6aa7.js",
+    "index.html": "/matthewmckee.co.uk/index.html",
+    "main.340a5a2c.css.map": "/matthewmckee.co.uk/static/css/main.340a5a2c.css.map",
+    "main.d81a6aa7.js.map": "/matthewmckee.co.uk/static/js/main.d81a6aa7.js.map"
   },
   "entrypoints": [
     "static/css/main.340a5a2c.css",
