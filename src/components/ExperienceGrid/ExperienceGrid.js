@@ -8,16 +8,16 @@ const experiences = [
     startDate: "June 2021",
     endDate: "Present",
     description:
-      "I am currently working as a Software Engineer at Sivers Photonics.",
+      "I am currently working as a Software Engineer at Sivers Photonics. I am working on an in-house sofrware that automates the drawing of DFB lasers. I also work on python scripts to visualise test data for customers.",
   },
-  {
-    company: "University of Glasgow",
-    position: "Software Developer",
-    startDate: "June 2020",
-    endDate: "June 2021",
-    description:
-      "I worked as a Software Developer at the University of Glasgow.",
-  },
+  // {
+  //   company: "University of Glasgow",
+  //   position: "Software Developer",
+  //   startDate: "June 2020",
+  //   endDate: "June 2021",
+  //   description:
+  //     "I worked as a Software Developer at the University of Glasgow.",
+  // },
 ];
 
 function ExperienceGrid() {

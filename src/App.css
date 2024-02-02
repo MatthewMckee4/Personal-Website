@@ -19,6 +19,11 @@ body {
   background-color: var(--background);
   color: var(--text);
   font-family: "Poppins", sans-serif;
-  max-width: 1800px;
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+body > div > div > div {
+  max-width: 1200px;
   margin: 0 auto;
 }

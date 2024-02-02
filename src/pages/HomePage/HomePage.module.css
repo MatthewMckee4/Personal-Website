@@ -1,0 +1,31 @@
+.home {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.title {
+  font-size: 28px;
+  margin-bottom: 30px;
+}
+
+.linksContainer {
+  margin-bottom: 20px;
+}
+
+.linkSection {
+  display: flex;
+  justify-content: space-around;
+}
+
+.link {
+  color: var(--text);
+  text-decoration: none;
+  position: relative;
+  transition: color 0.3s;
+}
+
+.link:hover {
+  color: var(--accent);
+}
